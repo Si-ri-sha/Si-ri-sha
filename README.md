@@ -13,7 +13,9 @@ I'm **Siri**, an aspiring software developer with a passion for learning and bui
 - 🧩 Solving Sudoku puzzles to sharpen my mind.  
 - 🍗 Indulging in my love for cooking chicken dishes and quirky humor.
 
-# 🌟 Learning: Fullstack development via [The Odin Project](https://www.theodinproject.com/) and Solving assessments and tasks on Forage(https://www.theforage.com/profile/LNsov3XgopmsGxSiX) 
+# 🌟 Learning: 
+- Fullstack development via [The Odin Project](https://www.theodinproject.com/)
+- Solving assessments and tasks on Forage (https://www.theforage.com/profile/LNsov3XgopmsGxSiX) 
 
 ## 📖 Working On: A Unique Personal Portfolio
 
