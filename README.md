@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-I'm currently 
+I'm **Siri**, a budding software developer and writer with a passion for crafting creative solutions and compelling stories.  I transitioned to writing and coding—combining logic with creativity to build and inspire.
