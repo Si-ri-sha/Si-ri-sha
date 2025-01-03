@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-I'm **Siri**, a budding software developer and writer with a passion for crafting creative solutions and compelling stories.  I transitioned to writing and coding—combining logic with creativity to build and inspire.
+# Hi there 👋
+
+I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with a dream to combine logic and creativity, and now I’m dedicated to mastering software development. With a keen interest in problem-solving and a drive for continuous improvement, I’m exploring technologies and crafting projects that make a difference.
+
+## 🌟 About Me
