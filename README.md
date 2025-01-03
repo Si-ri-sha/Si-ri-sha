@@ -13,7 +13,7 @@ I'm **Siri**, an aspiring software developer with a passion for learning and bui
 - 🍗 Indulging in my love for cooking chicken.
 
 # 🌟 Learning: 
-- Fullstack development via [The Odin Project](https://www.theodinproject.com/)
+- Fullstack development via [The Odin Project] (https://www.theodinproject.com/)
 - Solving assessments and tasks on Forage (https://www.theforage.com/profile/LNsov3XgopmsGxSiX) 
 
 ## 📖 Working On: A Unique Personal Portfolio
@@ -25,4 +25,9 @@ I'm building a one-of-a-kind personal portfolio that combines my love for books 
 - 💾 **Technologies in use**: HTML, CSS (animations), JavaScript, and possibly WebGL for advanced effects.  
 
 This portfolio is my way of blending storytelling and software development into something visually stunning and memorable. Stay tuned for updates as it comes to life!
+
+## 📬 Contact me at :
+
+LikendIn : https://www.linkedin.com/in/shireesha-th-6782b21a8/
+Email : sirishasirisha806@gmail.com
   
