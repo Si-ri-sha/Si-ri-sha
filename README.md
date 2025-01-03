@@ -4,7 +4,7 @@ I'm **Siri**, an aspiring software developer with a passion for learning and bui
 
 ## 🌟 currently 
 
-- 💻 Diving into the world of software development with a focus on JavaScript and frameworks.  
+- 💻 Diving into the world of software development with a focus on latest trend and technology.  
 - 🎮 Experimenting with building interactive games as a fun and engaging way to enhance my coding skills.
 
 ## 🌟 When I’m not coding, you can find me:  
