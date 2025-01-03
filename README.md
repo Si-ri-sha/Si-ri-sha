@@ -9,8 +9,8 @@ I'm **Siri**, an aspiring software developer with a passion for learning and bui
 
 ## 🌟 When I’m not coding, you can find me:  
 - 📚 Reading literary classics or light-hearted novels.  
-- 🧩 Solving Sudoku puzzles to sharpen my mind.  
-- 🍗 Indulging in my love for cooking chicken dishes and quirky humor.
+- 🧩 Solving Sudoku puzzles and math ups.  
+- 🍗 Indulging in my love for cooking chicken.
 
 # 🌟 Learning: 
 - Fullstack development via [The Odin Project](https://www.theodinproject.com/)
