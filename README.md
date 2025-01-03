@@ -3,12 +3,12 @@
 
 I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with a dream to combine logic and creativity, and now I’m dedicated to mastering software development. With a keen interest in problem-solving and a drive for continuous improvement, I’m exploring technologies and crafting projects that boasts my knowledge.
 
-# 🌟 currently 
+## 🌟 currently 
 
 - 💻 Diving into the world of software development with a focus on JavaScript and frameworks.  
 - 🎮 Experimenting with building interactive games as a fun and engaging way to enhance my coding skills.
 
-# 🌟 When I’m not coding, you can find me:  
+## 🌟 When I’m not coding, you can find me:  
 - 📚 Reading literary classics or light-hearted novels.  
 - 🧩 Solving Sudoku puzzles to sharpen my mind.  
 - 🍗 Indulging in my love for cooking chicken dishes and quirky humor.
