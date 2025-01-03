@@ -8,7 +8,7 @@ I'm **Siri**, an aspiring software developer with a passion for learning and bui
 - 🎮 Experimenting with building interactive games as a fun and engaging way to enhance my coding skills.
 
 ## 🌟 When I’m not coding, you can find me:  
-- 📚 Reading literary classics or light-hearted novels.  
+- 📚 Reading literary classics or light-hearted novels. 
 - 🧩 Solving Sudoku puzzles and math ups.  
 - 🍗 Indulging in my love for cooking chicken.
 
