@@ -27,6 +27,6 @@ This portfolio is my way of blending storytelling and software development into 
 
 ## 📬 Contact me at :
 
-LikendIn : https://www.linkedin.com/in/shireesha-th-6782b21a8/
+LikendIn : https://www.linkedin.com/in/shireesha-th-6782b21a8/ 
 Email : sirishasirisha806@gmail.com
   
