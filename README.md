@@ -1,5 +1,4 @@
-# Hi there 👋
-
+# Hey 🙋🏾‍♀️
 I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with confusion and curiosity; Any line of code that makes my screen responsive and brings up animated stuff or even as small as, add colors to my lines fasinates me!. I’m dedicated to master software development, slow and steady!. 
 
 ## 🌟 currently 
