@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with a dream to combine logic and creativity, and now I’m dedicated to mastering software development. With a keen interest in problem-solving and a drive for continuous improvement, I’m exploring technologies and crafting projects that boasts my knowledge.
+I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with a no dream, and now I’m dedicated to master software development. With a keen interest in problem-solving and a drive for continuous improvement, I’m exploring technologies and crafting projects that boasts my knowledge.
 
 ## 🌟 currently 
 
