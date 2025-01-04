@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with a no dream, and now I’m dedicated to master software development. With a keen interest in problem-solving and a drive for continuous improvement, I’m exploring technologies and crafting projects that boasts my knowledge.
+I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with confusion and curiosity; Any line of code that makes my screen responsive and brings up animated stuff or even as small as, add colors to my lines fasinates me!. I’m dedicated to master software development, slow and steady!. 
 
 ## 🌟 currently 
 
@@ -8,7 +8,7 @@ I'm **Siri**, an aspiring software developer with a passion for learning and bui
 - 🎮 Experimenting with building interactive games as a fun and engaging way to enhance my coding skills.
 
 ## 🌟 When I’m not coding, you can find me:  
-- 📚 Reading literary classics or light-hearted novels. 
+- 📚 Reading literary classics, gothic novels or thrillers. 
 - 🧩 Solving Sudoku puzzles and math ups.  
 - 🍗 Indulging in my love for cooking chicken.
 
