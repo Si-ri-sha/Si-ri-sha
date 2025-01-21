@@ -15,7 +15,8 @@ I’m dedicated to master software development, slow and steady!.
 
 # 🌟 Learning: 
 - Fullstack development via [The Odin Project] (https://www.theodinproject.com/)
-- Solving assessments and tasks on Forage (https://www.theforage.com/profile/LNsov3XgopmsGxSiX) 
+- Solving assessments and tasks on Forage (https://www.theforage.com/profile/LNsov3XgopmsGxSiX)
+- Core concepts via W3schools, youtube, ChatGpt, online platforms.
 
 ## 📖 Working On: A Unique Personal Portfolio
 
