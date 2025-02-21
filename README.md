@@ -6,5 +6,5 @@ slow and steady!.
 ## 🌟 When I’m not coding, you can find me:  
 - 📚 Reading literary classics, gothic novels or thrillers. 
 
-## 📖 Working On: A Unique Personal Portfolio
+📖 Working On: A Unique Personal Portfolio
 I'm building a one-of-a-kind personal portfolio that combines my love for books and technology. 
