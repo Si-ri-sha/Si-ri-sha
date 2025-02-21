@@ -2,16 +2,9 @@
 I'm **Siri**, an aspiring software developer with a passion for learning and building impactful solutions. My journey into coding began with confusion and curiosity; Any line of code that makes my screen responsive or brings up animated stuff or even as small as adding colors to my lines fasinates me!. 
 slow and steady!. 
 
-## 🌟 currently 
-
-- 💻 Diving into the world of software development with a focus on latest trend and technology.  
-- 🎮 Experimenting with building interactive games as a fun and engaging way to enhance my coding skills.
 
 ## 🌟 When I’m not coding, you can find me:  
 - 📚 Reading literary classics, gothic novels or thrillers. 
-- 🧩 Solving Sudoku puzzles and math ups.  
-- 🍗 Indulging in my love for cooking chicken.
-
 
 ## 📖 Working On: A Unique Personal Portfolio
 
